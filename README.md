@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**fehmi-gunay/fehmi-gunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fehmi Can Günay.
 
-Here are some ideas to get you started:
+Frontend learner building projects with HTML, CSS, Bootstrap and JavaScript.  
+Aspiring Full Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies I'm Learning
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+## 📌 Projects
+- Counter App → https://fehmi-gunay.github.io/counter-app
+
+## 📫 Connect with me
+GitHub: https://github.com/fehmi-gunay
