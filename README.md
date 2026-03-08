@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=fehmi-gunay&color=blue)
+
 # Hi there 👋
 
 I'm Fehmi Can Günay.
