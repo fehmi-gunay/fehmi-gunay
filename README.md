@@ -36,13 +36,11 @@ My goal is to become a **Full Stack Developer**.
 
 # 📌 Projects
 
-🧮 **Counter App**  
-A simple counter application built with JavaScript.  
+🔗 Counter App  
 https://fehmi-gunay.github.io/counter-app
 
-📝 **Todo List App**  
-A todo list application with filtering, deleting and LocalStorage support.  
-https://github.com/fehmi-gunay/todo-list-app
+🔗 Todo List App  
+https://fehmi-gunay.github.io/todo-list-app
 
 ---
 
