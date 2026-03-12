@@ -4,10 +4,10 @@
 
 I'm **Fehmi Can Günay**.
 
-Computer Engineering student passionate about software development.
-Currently focusing on **Frontend Development** and building projects with **JavaScript**.
+Computer Engineering student focused on frontend development.
 
-My goal is to become a **Full Stack Developer**.
+Building JavaScript projects and learning modern web technologies.
+Working toward becoming a **Full Stack Developer**.
 
 ---
 
@@ -36,10 +36,17 @@ My goal is to become a **Full Stack Developer**.
 
 # 📌 Projects
 
-🔗 Counter App  
+### 🧮 Counter App
+A simple counter application built with HTML, CSS and JavaScript.
+
+🔗 Live Demo  
 https://fehmi-gunay.github.io/counter-app
 
-🔗 Todo List App  
+
+### 📝 Todo List App
+Todo list application with filtering, deleting and localStorage support.
+
+🔗 Live Demo  
 https://fehmi-gunay.github.io/todo-list-app
 
 ---
