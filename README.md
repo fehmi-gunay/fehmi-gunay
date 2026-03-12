@@ -1,15 +1,17 @@
-![Profile Views](https://komarev.com/ghpvc/?username=fehmi-gunay&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=fehmi-gunay\&color=blue)
 
 # Hi there 👋
 
-I'm Fehmi Can Günay.
+I'm **Fehmi Can Günay**.
 
-Frontend learner building projects with HTML, CSS, Bootstrap and JavaScript.  
-Aspiring Full Stack Developer.
+Computer Engineering student passionate about software development.
+Currently focusing on **Frontend Development** and building projects with **JavaScript**.
+
+My goal is to become a **Full Stack Developer**.
 
 ---
 
-## 🚀 Technologies I'm Learning
+# 🚀 Technologies I'm Learning (Frontend)
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -20,31 +22,47 @@ Aspiring Full Stack Developer.
 
 ---
 
-## 📌 Projects
+# 💻 Other Languages & Technologies
 
-🔗 Counter App  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+# 📌 Projects
+
+🔗 Counter App
 https://fehmi-gunay.github.io/counter-app
 
----
-
-## 📫 Connect with me
-
-GitHub: https://github.com/fehmi-gunay
+🔗 Todo List App
+https://github.com/fehmi-gunay/todo-list-app
 
 ---
 
-## 📊 GitHub Stats
+# 📫 Connect with me
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fehmi-gunay&show_icons=true&theme=tokyonight)
-
----
-
-## 💻 Top Languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fehmi-gunay&layout=compact&theme=tokyonight)
+GitHub:
+https://github.com/fehmi-gunay
 
 ---
 
-## 📈 Contribution Graph
+# 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fehmi-gunay&theme=tokyo-night)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fehmi-gunay\&show_icons=true\&theme=tokyonight)
+
+---
+
+# 💻 Top Languages
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fehmi-gunay\&layout=compact\&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fehmi-gunay\&theme=tokyo-night)
