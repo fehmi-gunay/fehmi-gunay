@@ -53,6 +53,14 @@ https://github.com/fehmi-gunay
 
 ---
 
+## 📚 Currently Learning
+
+- JavaScript (ES6+)
+- DOM Manipulation
+- API & Fetch
+
+---
+
 ## 📊 GitHub Stats
 
 ![Fehmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fehmi-gunay&show_icons=true&theme=tokyonight)
