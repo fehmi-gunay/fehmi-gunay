@@ -1,17 +1,43 @@
-![Profile Views](https://komarev.com/ghpvc/?username=fehmi-gunay\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=fehmi-gunay&color=blue)
 
-# Hi there 👋
+I'm Fehmi Can Günay.
 
-I'm **Fehmi Can Günay**.
+Computer Engineering student focused on JavaScript and modern web development.
 
-Computer Engineering student focused on frontend development.
-
-Building JavaScript projects and learning modern web technologies.
-Working toward becoming a **Full Stack Developer**.
+Currently improving my skills in frontend development and moving toward full-stack development by learning Node.js and backend technologies.
 
 ---
 
-# 🚀 Technologies I'm Learning (Frontend)
+## 🚀 Projects
+
+### Weather App
+
+A simple weather app built with HTML, CSS and JavaScript using the Open-Meteo API.
+
+Live Demo  
+https://fehmi-gunay.github.io/weather-app/
+
+---
+
+### Todo List App
+
+A simple todo list application built with HTML, CSS and JavaScript.
+
+Live Demo  
+https://fehmi-gunay.github.io/todo-list-app/
+
+---
+
+### Counter App
+
+A basic counter application using JavaScript DOM manipulation.
+
+Live Demo  
+https://fehmi-gunay.github.io/counter-app/
+
+---
+
+# 🎨 Frontend Technologies
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -22,7 +48,16 @@ Working toward becoming a **Full Stack Developer**.
 
 ---
 
-# 💻 Other Languages & Technologies
+# ⚙️ Currently Learning (Backend)
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+# 💻 Other Languages & Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -34,54 +69,36 @@ Working toward becoming a **Full Stack Developer**.
 
 ---
 
-# 📌 Projects
-
-### 🧮 Counter App
-A simple counter application built with HTML, CSS and JavaScript.
-
-🔗 Live Demo  
-https://fehmi-gunay.github.io/counter-app
-
-
-### 📝 Todo List App
-Todo list application with filtering, deleting and localStorage support.
-
-🔗 Live Demo  
-https://fehmi-gunay.github.io/todo-list-app
-
----
-
-# 📫 Connect with me
-
-GitHub:
-https://github.com/fehmi-gunay
-
+## 🔗 Connect with me
 
 💼 LinkedIn  
 https://www.linkedin.com/in/fehmi-can-gunay
 
+💻 GitHub  
+https://github.com/fehmi-gunay
+
 ---
 
-## 📚 Currently Learning
+📚 Backend Learning Path
 
-- JavaScript (ES6+)
-- DOM Manipulation
-- API & Fetch
+- Node.js fundamentals
+- Express.js basics
+- REST API development
 
 ---
 
 ## 📊 GitHub Stats
 
-![Fehmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fehmi-gunay&show_icons=true&theme=tokyonight)
+![Fehmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fehmi-gunay&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehmi-gunay&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehmi-gunay&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fehmi-gunay\&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fehmi-gunay&theme=tokyo-night)
