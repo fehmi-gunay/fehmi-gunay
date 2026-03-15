@@ -56,6 +56,10 @@ https://fehmi-gunay.github.io/todo-list-app
 GitHub:
 https://github.com/fehmi-gunay
 
+
+💼 LinkedIn  
+https://www.linkedin.com/in/fehmi-can-gunay
+
 ---
 
 ## 📚 Currently Learning
