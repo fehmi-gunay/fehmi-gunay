@@ -10,6 +10,13 @@ Currently improving my skills in frontend development and moving toward full-sta
 
 ## 🚀 Projects
 
+### Image Search App
+
+A web application to search images using the Unsplash API.
+
+Live Demo  
+https://fehmi-gunay.github.io/image-search-app/
+
 ### Weather App
 
 A simple weather app built with HTML, CSS and JavaScript using the Open-Meteo API.
