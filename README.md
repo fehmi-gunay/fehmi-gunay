@@ -10,12 +10,23 @@ Currently improving my skills in frontend development and moving toward full-sta
 
 ## 🚀 Projects
 
+### Currency Rates App
+
+A simple currency converter app built with HTML, CSS and JavaScript using a live exchange rate API.
+
+Live Demo  
+https://fehmi-gunay.github.io/currency-rates-app/
+
+---
+
 ### Image Search App
 
 A web application to search images using the Unsplash API.
 
 Live Demo  
 https://fehmi-gunay.github.io/image-search-app/
+
+---
 
 ### Weather App
 
